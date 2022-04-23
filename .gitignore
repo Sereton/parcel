@@ -1,0 +1,9 @@
+# gitignore for the django project
+
+*.log
+*.pot
+*.pyc
+*.pyo
+__pycache__
+db.sqlite3
+media
